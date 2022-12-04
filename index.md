@@ -2,4 +2,4 @@
 layout: default
 ---
 
-this is just a dumb test for now!
+[this is just a dumb test for now!](./guide).
