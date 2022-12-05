@@ -10,5 +10,5 @@ Flipper for Noobs is intended to serve as a one-size-fits-all guide that will gi
 
 For further information and to help the community out by contributing accessible guides and knowledge, [view the GitHub repo!](https://github.com/peznetworks/flipper-noob-guide) Otherwise, you're ready to view the
 
-####(Guide Index)[/guide]
+####[Guide Index](/guide)
 
